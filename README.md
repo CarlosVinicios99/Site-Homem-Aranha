@@ -85,11 +85,3 @@
   </ul>
   <hr>
   <br>
-
-## Próxima versão
-
-<p> 
-  Em breve farei um novo commit adicionando a parte de responsividade.
-</p>
-<hr>
-<br>
